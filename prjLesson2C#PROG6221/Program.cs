@@ -23,6 +23,9 @@
             var Kreal = new Brids("Miles", "Best bird ever", "African grey", true, "Grey");
             Console.WriteLine(Kreal.ToString());
 
+            var Jarredv2 = new Mainecoon("Chester", "Will kill you",
+                "Grey and white and black and brown and everything");
+
         }
     }
 }
